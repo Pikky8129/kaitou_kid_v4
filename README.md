@@ -87,8 +87,6 @@ Answer:  Weakness, slowness, reduced muscle mass, loss of muscle strength, ...
 
 ### 使用しているAPIの紹介
 
-※個人的な理解によるもので間違っている可能性があります。
-
 API Reference - Embeddings  
 https://platform.openai.com/docs/api-reference/embeddings
 
