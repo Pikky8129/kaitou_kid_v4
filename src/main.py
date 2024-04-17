@@ -15,6 +15,6 @@ BuildEmbeddingUseCase().execute(
 # STEP2: テキストに対して質問を投げかけ、回答を得る。
 answer = AnswerQuestionUseCase().execute(
     text_embeddings_file_path="embeddings/abstract_and_conclusion_001.csv",
-    question="What are some terms related to nutrition? Pull out the numbers along with the term."
+    question="What words or idioms are related to physical frailty?"
 )
 print(f"Answer: {answer}")
